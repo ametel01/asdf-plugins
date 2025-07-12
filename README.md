@@ -842,7 +842,8 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | velad                         | [pdemagny/asdf-velad](https://github.com/pdemagny/asdf-velad)                                                     |
 | vhs                           | [chessmango/asdf-vhs](https://github.com/chessmango/asdf-vhs)                                                     |
 | Viddy                         | [ryodocx/asdf-viddy](https://github.com/ryodocx/asdf-viddy)                                                       |
-| Vim                           | [tsuyoshicho/asdf-vim](https://github.com/tsuyoshicho/asdf-vim)                                                   |
+| Vim                           | [tsuyoshicho/asdf-vim](https://github.com/tsuyoshicho/asdf-vim)
+| voyager                       | [NethermindEth/asdf-voyager-verifier](https://github.com/NethermindEth/asdf-voyager-verifier)                     |                                                   |
 | vlt                           | [asdf-community/asdf-hashicorp](https://github.com/asdf-community/asdf-hashicorp)                                 |
 | vultr-cli                     | [ikuradon/asdf-vultr-cli](https://github.com/ikuradon/asdf-vultr-cli)                                             |
 | watchexec                     | [nyrst/asdf-watchexec](https://github.com/nyrst/asdf-watchexec)                                                   |
